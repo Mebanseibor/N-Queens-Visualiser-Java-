@@ -247,6 +247,7 @@ flowchart
 
 
     CheckingForOtherQueens --> DecisionQueenPositionIsValid
+    
 
     %% DecisionQueenPositionIsValid
         DecisionQueenPositionIsValid --> |Yes🟢| EndPlaceQueen
